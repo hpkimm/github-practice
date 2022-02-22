@@ -13,4 +13,4 @@ const name =  prompt("이름을 입력해주세요");
 const name =  prompt("이름을 입력해주세요");
 const name =  prompt("이름을 입력해주세요");
 const name =  prompt("이름을 입력해주세요");
-
+const name =  prompt("커밋연습");
